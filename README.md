@@ -1,7 +1,7 @@
 -> 👋 Hey bro!, I’m @SebasEscobarDev 
 -> 🌱 https://sebasescobar.com
 -> 👀 I’m Software Developer in JavaScript Node.js with ORM Sequalize.js
--> 💞️ I’m currently learning React Native 
+-> 💞️ I’m currently learning about React Native 
 -> ✨ I’m looking to collaborate on SOFTWARE DEVELOPER TEAM, ...
 -> 📫 Mail: contacto@sebasescobar.com ...
 
